@@ -15,6 +15,7 @@ Ensure you have Python 3.x installed. You’ll also need the requests library. I
 Configuration
 
 To change the number of questions per session, update the amount parameter in the param dictionary within the script.
+
 param = {
     'amount': 10,  # Number of questions per session
     'type': 'boolean'
